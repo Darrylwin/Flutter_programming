@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutterlab/models/game.dart';
-import 'package:flutterlab/pages/detail/detail.dart';
+import 'package:gamestore/models/game.dart';
+import 'package:gamestore/pages/detail/detail.dart';
 
 class PopularGame extends StatelessWidget {
   PopularGame({super.key});
